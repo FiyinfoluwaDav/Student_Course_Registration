@@ -5,7 +5,7 @@ A Python/Tkinter GUI application for university course registration with input v
 ## 📸 Screenshots  
 
 **1. Personal Information Screen**  
-![Personal Info Screen](https://github.com/FiyinfoluwaDav/Student_Course_Registration/blob/main/Images_5/Course_selection.png?raw=true)  
+![Personal Info Screen](?raw=true)  
 
 **2. Course Selection Screen**  
 ![Course Selection](https://github.com/FiyinfoluwaDav/Student_Course_Registration/blob/main/Images_5/Interface.png?raw=true)  
